@@ -1,6 +1,6 @@
 # spotify_ui
 
-A new Flutter project.
+![spotify](https://user-images.githubusercontent.com/75200754/118441260-c1911980-b70a-11eb-8e14-59c38b10b815.png)
 
 ## Getting Started
 
